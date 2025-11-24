@@ -2,12 +2,7 @@
 
 **新概念英语在线点读，点句即读、连续播放**
 
-[![GitHub stars](https://img.shields.io/github/stars/luzhenhua/NCE-Flow?style=social)](https://github.com/luzhenhua/NCE-Flow)
-[![GitHub forks](https://img.shields.io/github/forks/luzhenhua/NCE-Flow?style=social)](https://github.com/luzhenhua/NCE-Flow)
-[![GitHub release](https://img.shields.io/github/release/luzhenhua/NCE-Flow)](https://github.com/luzhenhua/NCE-Flow/releases)
-[![License](https://img.shields.io/github/license/luzhenhua/NCE-Flow)](LICENSE)
-
-**在线体验**: https://nce.luzhenhua.cn | **下载完整版**: [Releases](https://github.com/luzhenhua/NCE-Flow/releases)
+**在线体验**: https://nce.daimazhan.com | **下载完整版**: [Releases](https://github.com/daimazhan/NCE-Flow/releases)
 
 ## 核心功能
 
